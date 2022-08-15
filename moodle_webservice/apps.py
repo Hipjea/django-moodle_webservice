@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MoodlewebserviceConfig(AppConfig):
+class MoodleWebserviceConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'moodlewebservice'
+    name = 'moodle_webservice'
