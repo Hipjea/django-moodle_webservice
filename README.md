@@ -9,7 +9,7 @@ A Django reusable app for [Moodle Webservice functions](https://docs.moodle.org/
 ```python
 INSTALLED_APPS = [
     ...
-    'moodlewebservice',
+    'moodle_webservice',
 ]
 ```
 
@@ -21,4 +21,4 @@ INSTALLED_APPS = [
 
 3. Move back into the project directory
 
-4. Install the app `pip install django-moodle_webservice/dist/django-moodlewebservice-1.0.tar.gz`
+4. Install the app `pip install django-moodle_webservice/dist/django-moodle_webservice-1.0.tar.gz`
